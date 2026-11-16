@@ -13,3 +13,5 @@ python -m streamlit run titanic_dashboard.py
 ```
 
 Streamlit prints the local URL when it starts. The default port is 8501.
+
+adding this part
